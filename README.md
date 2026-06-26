@@ -1,2 +1,2 @@
-# cipher-encrypter-decrypter
+# Cipher Encrypter/Decrypter
 Basic cipher encrypter and decrypter
